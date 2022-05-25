@@ -1,0 +1,85 @@
+¿que son los header?
+
+Lecturas recomendadas
+
+API Headers - What Are They? Examples & More [Explained] - Apipheny
+
+https://apipheny.io/api-headers/
+
+HTTP headers - HTTP | MDN
+
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers
+
+
+Lecturas recomendadas
+
+Request.cache - Web APIs | MDN
+
+https://developer.mozilla.org/en-US/docs/Web/API/Request/cache
+
+fetch() - Web APIs | MDN
+
+https://developer.mozilla.org/en-US/docs/Web/API/fetch
+
+Request - Web APIs | MDN
+
+https://developer.mozilla.org/en-US/docs/Web/API/Request
+
+HTTP caching - HTTP | MDN
+
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching#freshness
+
+Headers - Web APIs | MDN
+
+https://developer.mozilla.org/en-US/docs/Web/API/Headers
+
+HTTP caching - HTTP | MDN
+
+https://developer.mozilla.org/es/docs/Web/HTTP/Caching#actualizaci%C3%B3n
+
+Response - Web APIs | MDN
+
+https://developer.mozilla.org/en-US/docs/Web/API/Response
+
+
+Lecturas recomendadas
+
+Qué es GraphQL
+
+https://platzi.com/blog/introduccion-a-graphql/
+
+¿REST o GraphQL?, he ahí el dilema
+
+https://platzi.com/blog/rest-o-graphql/
+
+Curso de GraphQL [Empieza Gratis] - Platzi
+
+https://platzi.com/cursos/graphql/
+
+WebSockets en NodeJS
+
+https://platzi.com/blog/websockets-en-nodejs/
+
+Curso de Desarrollo de Dapps [Empieza Gratis] - Platzi
+
+https://platzi.com/cursos/intro-dapps/
+
+El rey ha muerto, larga vida a GraphQL
+
+https://platzi.com/blog/el-rey-ha-muerto-larga-vida-a-graphql/
+
+Curso de Desarrollo Frontend de Aplicaciones Descentralizadas con Web3.Js - Platzi
+
+https://platzi.com/cursos/frontend-dapps/
+
+
+Lecturas recomendadas
+
+API Docs
+
+https://developers.themoviedb.org/3/getting-started/introduction
+
+DNS (Domain Name System) lo usamos para poder comunicarnos con otros sitios a travez de un nombre de dominio como wwwplatzicom, sin ello sería  atravez de la IP "000.00.000.000" del servidor donde se encuentra esa página y como es muy larga y difícil de recordar se uso DNS en la web2.
+
+ENS (Ethereum Naming Service) es la sustitución del DNS pero en la web3, ahora como cada persona tiene su wallet en el mundo del crypto pues la dirección seria algo a si "e32fre43f584bnf2784b3" lo cual se repite la historia como con la IP, es muy difícil de recordarla.
+Al comprar el dominio ENS seria de esta forma "badman.eth". Alfín otra forma de recordarla más fácil. 

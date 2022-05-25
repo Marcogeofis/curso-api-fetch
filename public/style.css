@@ -1,0 +1,155 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-size: 62.5%;
+    background-color:#016669;
+}
+h1{
+    text-align: center;
+    color:#11eff7;
+    font-size: 3rem;
+    font-weight: bold;
+    margin-top: 30px;
+}
+#randomMichis{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    height: 550px;
+}
+#randomMichis h2{
+    margin: 20px 0;
+    color:#11eff7;
+    font-size: 1.5rem;
+    text-align: center;
+    width: auto;
+}
+#cargar_gatitos{
+    margin-top: 35px;
+    width: 200px;
+    height: 50px;
+    background-color: #11eff7;
+    font-size: 1rem;
+    font-weight: bold;
+    border: 2px solid white;
+    border-radius: 15px;
+    color:#016669;
+    cursor: pointer;
+}
+#cargar_gatitos:hover{
+    background-color: #016669;   
+    color: #11eff7;
+}
+.contenedor-aleatoria{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.contenedor-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin:5px;
+}
+.añadir_favoritos{
+    margin-top: 30px;
+    width: 120px;
+    height: 80px;
+    background-color: #11eff7;
+    font-size: 1rem;
+    font-weight: bold;
+    border: 2px solid white;
+    border-radius: 15px;
+    color:#016669;
+}
+.añadir_favoritos:hover{
+    background-color: #016669;
+    color: #11eff7;
+    cursor: pointer;
+}
+/* subir michis */
+#uploadingMichi{
+    width: 100%;
+    height: auto;
+    background-color: #97f5f8;
+    padding-bottom: 30px;
+}
+#uploadingMichi h2{
+    text-align: center;
+    padding-top: 20px;
+    padding-left: 20px;
+    font-size: 1.5rem;    
+    color:#016669;
+}
+#uploadingForm{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 40px;
+}
+#uploadingForm input{
+    width: 320px;
+    height: 40px;
+    cursor: pointer;
+}
+#uploadingForm button{
+    width: 200px;
+    height: 50px;
+    font-size: 1rem;
+    font-weight: bold;
+    border: none;
+    border-radius: 15px;
+    background-color: #016669;
+    color: #97f5f8;
+    cursor: pointer;
+    position: relative;
+    top:12px
+}
+#uploadingForm button:hover{
+    background-color: #829596;
+}
+
+/* favoritos */
+#favoriteMichis{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+#favoriteMichis h2{
+    width: 100%;
+    font-size: 1.5rem;
+    text-align: center;
+    color: #11eff7;
+    padding: 30px;
+}
+#favoriteMichis article{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+#favoriteMichis article button{
+    margin: 10px;
+    width: 200px;
+    height: 50px;
+    background-color: #11eff7;
+    font-size: 1rem;
+    font-weight: bold;
+    border: 2px solid white;
+    border-radius: 15px;
+    color:#016669;
+    cursor: pointer;
+}
+#favoriteMichis article button:hover{
+    background-color: #016669;
+    color: #11eff7;
+}
